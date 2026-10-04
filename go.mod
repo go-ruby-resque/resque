@@ -1,6 +1,6 @@
 module github.com/go-ruby-resque/resque
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/alicebob/miniredis/v2 v2.39.0
